@@ -1,7 +1,5 @@
 # TRANSPAN-Training-2026
 
-# TRANSPAN Training School 2026: AI in Personalized Medicine
-
 Hands-on materials for the 2-day immersive training school focused on the fundamentals of Artificial Intelligence for analysis of -omics data in the context of biomarker discovery and translational medicine for pancreatic cancer.
 
 ## Event Details
